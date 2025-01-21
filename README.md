@@ -1,17 +1,27 @@
 ## Hi there 👋
 
-## 🔭 I’m currently working on getting up to speed on all things GitHub and what it means to be an excellent Hubber.
+# About Me 👋
 
-## 🌱 I’m currently learning all the things (or trying to)!
+## 🔭 Current Focus
+I’m currently working on getting up to speed on all things GitHub and what it means to be an excellent Hubber.
 
-## 👯 I’m looking to collaborate on onboarding new Revenue team members, methodology, and skills enablement.
+## 🌱 Learning
+I’m currently learning all the things (or trying to)!
 
-## 🤔 I’m looking for help with all the things!
+## 👯 Collaboration
+I’m looking to collaborate on onboarding new Revenue team members, methodology, and skills enablement.
 
-## 💬 Ask me about my pets (two dogs and two cats)
+## 🤔 Seeking Help
+I’m looking for help with all the things!
 
-## 📫 How to reach me: @chakodi
+## 💬 Ask Me About
+Ask me about my pets (two dogs and two cats).
 
-## 😄 Pronouns: she/her
+## 📫 Contact
+How to reach me: @chakodi
 
-## ⚡ Fun fact: I grew up in Maui
+## 😄 Pronouns
+she/her
+
+## ⚡ Fun Fact
+I grew up in Maui.
