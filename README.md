@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 🔭 I’m currently working on getting up to speed on all things GitHub and what it means to be an excellent Hubber.
+## 🔭 I’m currently working on getting up to speed on all things GitHub and what it means to be an excellent Hubber.
 
 ## 🌱 I’m currently learning all the things (or trying to)!
 
